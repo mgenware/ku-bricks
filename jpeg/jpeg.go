@@ -7,7 +7,7 @@ import (
 var repo = &ku.RepoInfo{
 	Url:  "https://github.com/libjpeg-turbo/libjpeg-turbo",
 	Name: "libjpeg-turbo",
-	Tag:  "3.1.3",
+	Tag:  "3.2.1",
 }
 
 func BuildJpeg(be *ku.BuildEnv) {
