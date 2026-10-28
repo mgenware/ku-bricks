@@ -1,0 +1,16 @@
+github.com/fatih/color v1.19.0 h1:Zp3PiM21/9Ld6FzSKyL5c/BULoe/ONr9KlbYVOfG8+w=
+github.com/fatih/color v1.19.0/go.mod h1:zNk67I0ZUT1bEGsSGyCZYZNrHuTkJJB+r6Q9VuMi0LE=
+github.com/mattn/go-colorable v0.1.15 h1:+u9SLTRGnXv73cEsnsmoZBom+dMU88B2M0aDcWy0/jY=
+github.com/mattn/go-colorable v0.1.15/go.mod h1:6LmQG8QLFO4G5z1gPvYEzlUgJ2wF+stgPZH1UqBm1s8=
+github.com/mattn/go-isatty v0.0.22 h1:j8l17JJ9i6VGPUFUYoTUKPSgKe/83EYU2zBC7YNKMw4=
+github.com/mattn/go-isatty v0.0.22/go.mod h1:ZXfXG4SQHsB/w3ZeOYbR0PrPwLy+n6xiMrJlRFqopa4=
+github.com/mgenware/goutil v1.5.1 h1:LTiNbCoENURadL2psVR2BfMkHWpqGMKNZWl5MqUTeag=
+github.com/mgenware/goutil v1.5.1/go.mod h1:M8lyF/Z9tA0ahywKYfJov2FNNGQ+LJ1WsJ45Kh/WXNM=
+github.com/mgenware/j9/v3 v3.5.0 h1:i/Qah9r1YQ5fgmyVhdAe3WkFb+YC4AidoCjxK/WqQFg=
+github.com/mgenware/j9/v3 v3.5.0/go.mod h1:VN1LyfsBiO61vP9hU3qeCvHvY9JO13AfxMFdtQ2nhn8=
+github.com/mgenware/ku-builder v0.0.0-20261021140828-a053b97c2191 h1:nmcf69M9gzJNjOZc98lDFJVP/Woa4OVKth9eQGhG6h0=
+github.com/mgenware/ku-builder v0.0.0-20261021140828-a053b97c2191/go.mod h1:Jf2BRbMKbI2+YPHHIk8pA7C75yDBdaDSuueZ/krc+Ik=
+golang.org/x/crypto v0.53.0 h1:QZ4Muo8THX6CizN2vPPd5fBGHyogrdK9fG4wLPFUsto=
+golang.org/x/crypto v0.53.0/go.mod h1:DNLU434OwVakk9PzuwV8w62mAJpRJL3vsgcfp4Qnsio=
+golang.org/x/sys v0.46.0 h1:noSf2Fq6F8DBgS+LysIkx7rIExoNHJsxOAtPp4rthXw=
+golang.org/x/sys v0.46.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
