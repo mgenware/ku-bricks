@@ -11,8 +11,14 @@ var repo = &ku.RepoInfo{
 }
 
 func BuildDav1d(be *ku.BuildEnv) {
+	args := []string{
+		"-Denable_tools=false",
+		"-Denable_tests=false",
+	}
 	p := ku.NewMesonProject(repo, be, ku.LibTypeStatic)
-	p.Init(nil)
+	p.Init(&ku.ProjectInitOptions{
+		Args: args,
+	})
 	p.Build()
 	p.Install("libdav1d", nil)
 }
